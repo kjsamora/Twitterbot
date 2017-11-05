@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\ Error: no test specified\\ && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjsamora/Twitterbot.git"
+  },
+  "author": "KJ Samora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjsamora/Twitterbot/issues"
+  },
+  "homepage": "https://github.com/kjsamora/Twitterbot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
